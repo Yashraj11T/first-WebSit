@@ -1,6 +1,6 @@
 import os
-
+#we are yousibg os 
 
 print(os.listdir())
-print(os.chdir())
-print(os.abort())
+
+os.cwd
